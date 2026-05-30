@@ -1,0 +1,36 @@
+body {
+    font-family: Georgia;
+    background-color: #fff199;
+}
+
+.container {
+    width: 350px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #9ddb7d;
+    border-radius: 10px;
+    border: 2px solid #7B542F;
+    text-align: center;
+}
+
+h2 {
+    color: #468432;
+    margin-bottom: 16px;
+}
+
+input {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 14px;
+    border: 2px solid #7B542F;
+    border-radius: 4px;
+}
+
+button {
+    padding: 9px 14px;
+    background-color: #fff199;
+    font-family: Georgia;
+    color: #7B542F;
+    border: 2px solid #468432;
+    border-radius: 4px;
+}
